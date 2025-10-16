@@ -1,5 +1,5 @@
 # Pico2ROMEmu\_PCB
-![Pico2ROMEmuBR](./Pico2ROMEmu_PCB_img.jpg)
+![Pico2ROMEmuBR](./Pico2ROMEmu_PCB_img1.jpg)
 ![Pico2ROMEmuBR](./Pico2ROMEmu_PCB_SCH.jpg)
 
 Pico2ROMEmu PCB
