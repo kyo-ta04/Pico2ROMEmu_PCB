@@ -11,10 +11,9 @@ For more information, please see [Pico2ROMEmu](https://github.com/kyo-ta04/Pico2
 
 KiCanvas view ->
 [schematics](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fkyo-ta04%2FPico2ROMEmu_PCB%2Fblob%2Fmaster%2FPico2ROMEmu_PCB.kicad_sch), 
-[board](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fkyo-ta04%2FPico2ROMEmu_PCB%2Fblob%2Fmaster%2FPico2ROMEmu_PCB.kicad_pcb)
+[board](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fkyo-ta04%2FPico2ROMEmu_PCB%2Fblob%2Fmaster%2FPico2ROMEmu_PCB.kicad_pcb)  
 
-
-
+Gerber file -> [Pico2ROMEmu_PCB_0.1.zip](https://github.com/kyo-ta04/Pico2ROMEmu_PCB/blob/master/production/Pico2ROMEmu_PCB_0.1.zip)
 
 ## Disclaimer
 This software is provided as is. The author is not responsible for any damage.
