@@ -1,6 +1,6 @@
 # Pico2ROMEmu\_PCB
-![Pico2ROMEmuBR](./Pico2ROMEmu_PCB_img1.jpg)
-![Pico2ROMEmuBR](./Pico2ROMEmu_PCB_SCH.jpg)
+![Pico2ROMEmu_PCB img](./IMG/Pico2ROMEmu_PCB_img1.jpg)
+![Pico2ROMEmu_PCB sch](./IMG/Pico2ROMEmu_PCB_SCH.jpg)
 
 Pico2ROMEmu PCB
 This is a KiCad project for a Pico2ROMEmu ROM emulator.  
